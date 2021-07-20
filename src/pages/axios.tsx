@@ -1,5 +1,5 @@
 import axios from "axios";
-import IUser from "../types/user";
+import { IUser } from "../types/user";
 // you don't need anything else to import
 
 interface Props {
